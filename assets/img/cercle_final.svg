@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 521.7 507.8" style="enable-background:new 0 0 521.7 507.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#000000;stroke-linecap:round;stroke-dasharray:0.2499,8.9979;}
+	.st4{fill:none;stroke:#000000;stroke-linecap:round;stroke-dasharray:0.2498,8.9918;}
+	.st5{fill:none;stroke:#000000;stroke-linecap:round;stroke-dasharray:0.2499,8.9976;}
+	.st6{fill:none;stroke:#000000;stroke-linecap:round;stroke-dasharray:0.25,8.9995;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-dasharray:0.2504,9.0154;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-dasharray:0.2504,9.0137;}
+	.st9{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-dasharray:0.2507,9.0252;}
+	.st10{fill:none;stroke:#FFFFFF;}
+	.st11{fill:#FFFFFF;}
+</style>
+<g id="Bases" class="st0">
+	<circle class="st1" cx="227.5" cy="283.5" r="182.5"/>
+	<circle class="st1" cx="227.5" cy="283.5" r="161.8"/>
+	<circle class="st1" cx="227.5" cy="283.5" r="141.3"/>
+	<circle class="st1" cx="227.5" cy="283.5" r="204.6"/>
+	<g class="st2">
+		<circle class="st3" cx="682.3" cy="198.1" r="182.5"/>
+	</g>
+	<g class="st2">
+		<circle class="st4" cx="682.3" cy="198.1" r="161.8"/>
+	</g>
+	<g class="st2">
+		<circle class="st5" cx="682.3" cy="198.1" r="141.3"/>
+	</g>
+	<g class="st2">
+		<circle class="st6" cx="682.3" cy="198.1" r="204.6"/>
+	</g>
+</g>
+<g id="Petit_cercle">
+</g>
+<g id="Cercle_à_échelle">
+	<g id="Pointillés_1_">
+		<g>
+			<circle class="st7" cx="261.2" cy="250.4" r="221.2"/>
+		</g>
+		<g>
+			<circle class="st8" cx="261.2" cy="250.4" r="196.1"/>
+		</g>
+		<g>
+			<circle class="st9" cx="261.2" cy="250.4" r="171.2"/>
+		</g>
+	</g>
+	<g id="Lignes_droites_1_">
+		<g>
+			<path class="st10" d="M228.5,31.4c10.7-1.6,21.6-2.4,32.7-2.4c122.2,0,221.2,99,221.2,221.2c0,51.6-17.7,99.1-47.3,136.7"/>
+			<circle class="st11" cx="229.3" cy="31.7" r="2.6"/>
+			<animateTransform attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 261.2 250.4"
+								  to="-360 261.2 250.4"
+								  dur="30s"
+								  repeatCount="indefinite" />
+		</g>
+		<g>
+			<path class="st10" d="M261.2,446.3c-108.3,0-196.1-87.8-196.1-196.1c0-89.5,60-165,141.9-188.5"/>
+			<circle class="st11" cx="262.2" cy="446.4" r="2.6"/>
+			<animateTransform attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 261.2 250.4"
+								  to="-360 261.2 250.4"
+								  dur="30s"
+								  repeatCount="indefinite" />
+		</g>
+		<circle id="Intérieur" class="st10" cx="261.2" cy="250.2" r="171.2"/>
+		<g id="Extérieur">
+			<path class="st10" d="M507.9,275.6c-12.7,125.1-118.3,222.6-246.7,222.6c-48.5,0-93.8-13.9-132-38"/>
+			<circle class="st11" cx="507.9" cy="275.6" r="2.6"/>
+			<animateTransform attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 261.2 250.4"
+								  to="-360 261.2 250.4"
+								  dur="30s"
+								  repeatCount="indefinite" />
+		</g>
+	</g>
+</g>
+</svg>
